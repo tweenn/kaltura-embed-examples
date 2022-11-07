@@ -5,9 +5,7 @@
   "repository": "git@github.com:tweenn/kaltura-embed-examples.git",
   "author": "Felipe Zuntini <felipezuntini@hotmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "lit": "^2.4.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@storybook/addon-actions": "^6.5.13",
