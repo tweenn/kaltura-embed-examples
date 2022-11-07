@@ -22,6 +22,7 @@
 	"scripts": {
 		"storybook": "start-storybook -p 6006",
 		"build": "rm -rf ./dist; build-storybook -o ./dist",
-		"deploy": "push-dir --dir=dist --branch=gh-pages --force --verbose --cleanup"
+		"push": "push-dir --dir=dist --branch=gh-pages --force --verbose --cleanup",
+		"deploy": "yarn build && yarn push"
 	}
 }
