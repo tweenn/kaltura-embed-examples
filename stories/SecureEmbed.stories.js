@@ -40,12 +40,12 @@ kaltura.args = {
 	domain: 'video.kaltura.com'
 };
 
-export const oReilly = Template.bind({});
-oReilly.args = {
-	mediaID: '0_5j5iicm5',
-	uiConfID: '48184023',
-	domain: 'learning.oreilly.com'
-};
+// export const oReilly = Template.bind({});
+// oReilly.args = {
+// 	mediaID: '0_5j5iicm5',
+// 	uiConfID: '48184023',
+// 	domain: 'learning.oreilly.com'
+// };
 
 export const ibmMediacenterTestPublic = Template.bind({});
 ibmMediacenterTestPublic.args = {

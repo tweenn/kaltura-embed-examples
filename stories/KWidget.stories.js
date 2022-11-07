@@ -52,12 +52,12 @@ kaltura.args = {
 	uiConfID: '32783592'
 };
 
-export const oReilly = Template.bind({});
-oReilly.args = {
-	partnerID: '1926081',
-	mediaID: '0_5j5iicm5',
-	uiConfID: '48184023'
-};
+// export const oReilly = Template.bind({});
+// oReilly.args = {
+// 	partnerID: '1926081',
+// 	mediaID: '0_5j5iicm5',
+// 	uiConfID: '48184023'
+// };
 
 export const ibmMediacenterTest = Template.bind({});
 ibmMediacenterTest.args = {
