@@ -1,6 +1,6 @@
 import { html } from 'lit-html';
-import './css/simple-grid.min.css';
-import './css/main.css';
+import '../css/simple-grid.min.css';
+import '../css/main.css';
 
 export default {
 	title: 'Kaltura Embed/iFrame Normal'

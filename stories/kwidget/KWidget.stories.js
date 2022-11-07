@@ -1,6 +1,6 @@
 import { html } from 'lit-html';
-import './css/simple-grid.min.css';
-import './css/main.css';
+import '../css/simple-grid.min.css';
+import '../css/main.css';
 
 export default {
 	title: 'Kaltura Embed/kWidget'
@@ -59,8 +59,8 @@ kaltura.args = {
 // 	uiConfID: '48184023'
 // };
 
-export const ibmMediacenterTest = Template.bind({});
-ibmMediacenterTest.args = {
+export const IBMMediacenterTest = Template.bind({});
+IBMMediacenterTest.args = {
 	partnerID: '1511271',
 	mediaID: '1_k37997qm',
 	uiConfID: '44723621'
